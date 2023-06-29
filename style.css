@@ -1,0 +1,6 @@
+body{background-color: lightblue;}
+h1{color: #EE309E; font-family: Helvetica; font-size: 40pt;}
+p{color: #621D44; font-family: Helvetica; font-size: 14pt;}
+img{border-style: dotted; border-width: 4pt; color: #EE309E;}
+a{color: #621D44; font-family: Helvetica; font-size: 14pt; text-decoration: none;}
+a:hover{color: #EE309E;}
